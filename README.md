@@ -31,3 +31,4 @@ Data Analysis involves inspecting,cleansing,transforming and modelling data to d
   - Structured: Tabular Format
   - Semi-structured data:not in tabular format,they appear in pairs
   - Unstructured data it comes in media files,videos,audios. 
+  
