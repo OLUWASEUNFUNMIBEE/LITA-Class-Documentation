@@ -6,7 +6,8 @@
 ### Data storage and structure
 ### Data Analysis
 ### SQL Queries
-                          ### PROJECT OVERVIEW
+
+### PROJECT OVERVIEW
                            
     This project (Project Analysis) aims to provide insight on how data collected can be analysed,using microsoft excel and its functions.This project also make provision for easy access of data for compilation of data with the use of shortcuts'
 ### FOUNDATION OF DATA AND TOOLS USED 
