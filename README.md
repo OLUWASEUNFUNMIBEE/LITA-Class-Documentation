@@ -4,7 +4,7 @@
 ### Foundation of data and tools used
 ### Data source
 ### Data storage and structure
-### Data Analysis
+### Data Analysis life cycle
 ### SQL Queries
 
 ### PROJECT OVERVIEW
@@ -31,4 +31,6 @@ Data Analysis involves inspecting,cleansing,transforming and modelling data to d
   - Structured: Tabular Format
   - Semi-structured data:not in tabular format,they appear in pairs
   - Unstructured data it comes in media files,videos,audios. 
-  
+  ### DATA ANALYSIS LIFE CYCLE
+Integration- Transformation - Modelling - visualization - Analysis - Presentation
+### SQL-STRUCTURE QUERY LANGUAGE
