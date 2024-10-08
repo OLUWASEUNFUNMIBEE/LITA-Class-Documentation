@@ -1,2 +1,2 @@
 # LITA-Class-Documentation
-### project Title:E commerce Sales Analyses
+### Project Title: Data Analysis,Excel Function and SQL Queries
