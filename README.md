@@ -12,3 +12,6 @@ FOUNDATION OF DATA AND TOOLS USED
 Data is the collection of facts,events and statistical informations used for decision making.
 
 Data Analysis involves inspecting,cleansing,transforming and modelling data to discover useful information,draw conclusion and support decision making 
+
+TOOLS USED
+Micrisoft Excel www.excel.com 
