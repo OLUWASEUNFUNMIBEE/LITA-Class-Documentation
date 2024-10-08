@@ -2,7 +2,7 @@
 ### Project Title: Data Analysis,Excel Function and SQL Queries
 ### Project Overview
 ### Foundation of data and tools used
-### Data storage
+### Data storage and structure
 ### Data Analysis
 ### SQL Queries
                            PROJECT OVERVIEW
