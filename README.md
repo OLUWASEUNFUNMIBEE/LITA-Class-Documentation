@@ -12,11 +12,8 @@
     This project (Project Analysis) aims to provide insight on how data collected can be analysed,using microsoft excel and its functions.This project also make provision for easy access of data for compilation of data with the use of shortcuts.
     
 ### FOUNDATION OF DATA AND TOOLS USED
-
 Data is the collection of facts,events and statistical informations used for decision making.
-
 Data Analysis involves inspecting,cleansing,transforming and modelling data to discover useful information,draw conclusion and support decision making 
-
 ### TOOLS USED
 - Microsoft Excel [Download Here](https://www.microsoft.com)
    - For Data Cleaning
@@ -27,4 +24,10 @@ Data Analysis involves inspecting,cleansing,transforming and modelling data to d
 
  ### Data source
  The primary source od data used here is Data sale.csv and this is an open source data that can be freeely downloaded from an open source online such as kaggle or FRED or any other repository site.
- 
+ ### DATA STORAGE AND STRUCTURE
+ All data needs to be stored.It can be stored on Excel (premises) or Cloud (internet),cassandra.
+ ### DATA STRUCURE
+ There are three differents ways data can be structured 
+  - Structured: Tabular Format
+  - Semi-structured data:not in tabular format,they appear in pairs
+  - Unstructured data it comes in media files,videos,audios. 
