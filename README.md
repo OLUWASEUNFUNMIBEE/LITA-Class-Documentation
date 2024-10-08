@@ -1,4 +1,5 @@
 # LITA-Class-Documentation
+Here is Where My Data Analysis Journey With The Incubator is Documented
 ### Project Title: Data Analysis,Excel Function and SQL Queries
 ### Project Overview
 ### Foundation of data and tools used
@@ -34,3 +35,4 @@ Data Analysis involves inspecting,cleansing,transforming and modelling data to d
   ### DATA ANALYSIS LIFE CYCLE
 Integration- Transformation - Modelling - visualization - Analysis - Presentation
 ### SQL-STRUCTURE QUERY LANGUAGE
+SQL allow usuers to query the database in a number of ways using english-like statement.It enable users to relate databases and tables.
