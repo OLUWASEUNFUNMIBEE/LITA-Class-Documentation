@@ -23,4 +23,8 @@ Data Analysis involves inspecting,cleansing,transforming and modelling data to d
    - For Analysing
    - For Data Visualization
 - SQL-Structured Query Language for Querying of Data
-- Github for portfolio Building  
+- Github for portfolio Building
+
+ ### Data source
+ The primary source od data used here is Data sale.csv and this is an open source data that can be freeely downloaded from an open source online such as kaggle or FRED or any other repository site.
+ 
